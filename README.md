@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Assem
 
-<!--
-**assem-ahmed1/assem-ahmed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer  
+🔥 Passionate about building modern and responsive websites  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+* HTML  
+* CSS  
+* JavaScript  
+
+---
+
+## 🚀 Projects
+
+* **Clinic Appointment System**  
+  Developed a responsive web application that allows patients to book appointments with doctors, select available time slots, and manage their bookings efficiently.
+
+* **Programming Learning Platform**  
+  Built an educational website that provides structured programming lessons for beginners with a clean UI and easy-to-follow content.
+
+---
+
+## 📫 Contact
+
+* your@email.com
