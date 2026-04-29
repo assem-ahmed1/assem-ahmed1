@@ -1,48 +1,59 @@
-## Hey 👋, I'm Assem Ahmed
+<h1 align="center">Hi 👋, I'm Assem Ahmed</h1>
 
-💻 Frontend Developer  
-🔥 Passionate about building clean, responsive, and user-friendly websites  
+<h3 align="center">💻 Frontend Developer | 🚀 Building modern web experiences</h3>
 
 ---
 
-### 🧠 About Me:
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
-- 💻 Frontend Developer focused on HTML, CSS, JavaScript  
-- 🚀 I love building real-world projects and improving my skills every day  
-- 🌱 Currently learning advanced JavaScript and modern web development concepts  
-- 🤝 Open to collaboration on web projects  
-- 💬 Ask me anything about frontend or coding, I’m happy to help  
+---
+
+## 🧠 About Me
+
+- 💻 Frontend Developer (HTML, CSS, JavaScript)
+- 🚀 I build real-world projects and love clean UI
+- 🌱 Currently improving JavaScript & modern web development
+- 🤝 Open to collaboration on web projects
+- 💬 Ask me anything about frontend development
 - 📫 Contact: your@email.com  
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
-* **Clinic Appointment System**  
-  A web application for booking appointments with doctors, allowing patients to choose available time slots and manage their reservations easily.
+### 🏥 Clinic Appointment System
+Web app for booking doctor appointments with time slots and easy reservation management.
 
-* **Programming Learning Website**  
-  An educational platform designed to help beginners learn programming with simple explanations and structured lessons.
-
----
-
-### 🛠 Languages & Tools:
-
-- HTML  
-- CSS  
-- JavaScript  
-- Git  
-- GitHub  
+### 📚 Programming Learning Website
+Educational platform for beginners with structured lessons and simple explanations.
 
 ---
 
-### 📊 GitHub Stats
+## 🛠 Tech Stack
 
-*(optional: لو عايز نضيفها بعدين نركبها لك زي المثال)*
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+</p>
 
 ---
 
-### 📫 Connect with me
+## 📫 Connect with me
 
 - Email: your@email.com  
-- LinkedIn: (حط اللينك بتاعك هنا)
+- LinkedIn: add-your-link-here  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
