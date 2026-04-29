@@ -20,12 +20,14 @@
 
 ## 🚀 Projects
 
-### 🏥 Clinic Appointment System
-A responsive web app for booking doctor appointments, managing schedules, and selecting available time slots.
+### 🏥 University Booking App
+A web application for booking appointments with university doctors, scheduling meetings, and managing available time slots.
 
-### 📚 Programming Learning Platform
-An educational website designed for beginners with structured programming lessons and simple UI.
+### 🩺 MedCare
+A medical clinic web app for booking appointments with doctors, viewing availability, and managing patient visits.
 
+### 📚 CodeLearn
+An educational platform for learning programming from scratch with structured lessons and a simple beginner-friendly UI.
 ---
 
 ## 🛠 Tech Stack
