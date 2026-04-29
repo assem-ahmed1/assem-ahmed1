@@ -46,20 +46,6 @@ An educational platform for learning programming from scratch with structured le
 </p>
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=assem-ahmed1&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=assem-ahmed1&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assem-ahmed1&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
 
 ## 📫 Connect with me
 
