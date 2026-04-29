@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Assem Ahmed</h1>
 
-<h3 align="center">💻 Frontend Developer | ⚛️ React Enthusiast | 🎨 UI Lover</h3>
+<h3 align="center">💻 Frontend Developer | 🎨 UI Enthusiast</h3>
 
 ---
 
@@ -12,21 +12,22 @@
 
 ## 🧠 About Me
 
-- 💻 Frontend Developer specializing in modern web apps  
-- ⚛️ Focused on React.js & component-based architecture  
-- 🎨 I love building clean UI/UX designs  
-- 🚀 Always learning new frontend tools & frameworks  
-- 🤝 Open to collaboration on real-world projects  
-- 📫 Contact: your@email.com  
+* 💻 Frontend Developer specializing in building responsive websites
+* 🎨 Passionate about UI/UX and clean modern design
+* 🚀 Always learning new web technologies
+* 🤝 Open to collaboration on real-world projects
+* 📫 Contact: [your@email.com](mailto:your@email.com)
 
 ---
 
 ## 🚀 Projects
 
 ### 🏥 Clinic Appointment System
+
 A responsive web app for booking doctor appointments, managing schedules, and selecting available time slots.
 
 ### 📚 Programming Learning Platform
+
 An educational website designed for beginners with structured programming lessons and simple UI.
 
 ---
@@ -36,15 +37,17 @@ An educational website designed for beginners with structured programming lesson
 <p align="left">
 
   <!-- Frontend Core -->
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
 
-  <!-- Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+  <!-- CSS Library -->
+
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
 
   <!-- Tools -->
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
 
@@ -66,5 +69,5 @@ An educational website designed for beginners with structured programming lesson
 
 ## 📫 Connect with me
 
-- Email: your@email.com  
-- LinkedIn: add-your-link-here  
+* Email: [your@email.com](mailto:your@email.com)
+* LinkedIn: add-your-link-here
