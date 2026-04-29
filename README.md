@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Assem Ahmed</h1>
 
-<h3 align="center">💻 Frontend Developer | ⚛️ React Developer | 🎨 UI/UX Enthusiast</h3>
+<h3 align="center">💻 Frontend Developer | ⚛️ React Enthusiast | 🎨 UI Lover</h3>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Frontend Developer focused on building modern web interfaces  
-- ⚛️ Strong interest in React.js and component-based architecture  
-- 🎨 I love turning UI designs into real interactive websites  
-- 🚀 Always learning new frontend tools and best practices  
-- 🤝 Open to collaboration on web projects  
+- 💻 Frontend Developer specializing in modern web apps  
+- ⚛️ Focused on React.js & component-based architecture  
+- 🎨 I love building clean UI/UX designs  
+- 🚀 Always learning new frontend tools & frameworks  
+- 🤝 Open to collaboration on real-world projects  
 - 📫 Contact: your@email.com  
 
 ---
@@ -24,10 +24,10 @@
 ## 🚀 Projects
 
 ### 🏥 Clinic Appointment System
-A responsive web application for booking doctor appointments, managing schedules, and selecting time slots.
+A responsive web app for booking doctor appointments, managing schedules, and selecting available time slots.
 
 ### 📚 Programming Learning Platform
-An educational platform for beginners with structured lessons and clean UI.
+An educational website designed for beginners with structured programming lessons and simple UI.
 
 ---
 
@@ -35,12 +35,12 @@ An educational platform for beginners with structured lessons and clean UI.
 
 <p align="left">
 
-  <!-- Core Frontend -->
+  <!-- Frontend Core -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
 
-  <!-- Frontend Framework -->
+  <!-- Frameworks -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
 
